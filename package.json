@@ -1,0 +1,21 @@
+{
+  "name": "gulp-5e-shaped-monster-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-5e-shaped-monster": "git+https://github.com/Malkuthe/gulp-5e-shaped-monster.git",
+    "gulp-beautify": "^2.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cached": "^1.1.1",
+    "gulp-concat-util": "^0.5.5",
+    "gulp-watch": "^4.3.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

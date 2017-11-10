@@ -1,0 +1,6 @@
+{
+  "paths": {
+    "src": "src/**/*.yml",
+    "dest": "dist/"
+  }
+}
