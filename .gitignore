@@ -1,1 +1,8 @@
-node_modules/
+*
+*/
+!src
+!dist
+!.gitignore
+!5e-shaped-monster-config.json
+!gulpfile.js
+!package.json
